@@ -114,5 +114,4 @@ export HOMEBREW_NO_AUTO_UPDATE=true
 
 # Created by `pipx` on 2024-06-02 06:35:05
 export PATH="$PATH:/Users/chenhao/.local/bin"
-export OPENAI_API_KEY=sk-proj-XjDpVyLjJhtL3Xa0yI4CT3BlbkFJPKX2DYvAjAOCYBAFNYkS
 
